@@ -93,7 +93,7 @@ header .menu-icon .nav-icon::after{
 .header .menu{
     clear: none;
     float: right;
-}{
+}
 .header li a:hover{
     padding: 20px 30px;
     color: rgb(255, 255, 255);
