@@ -101,3 +101,11 @@ header .menu-icon .nav-icon::after{
 header ul a:hover{
     background-color: #181818 !important;
 }
+.center {
+    color:  #808080;
+    margin: auto;
+    width: 40%;
+    padding: 200px;
+    background-color: #212121;
+    text-align: center;
+  }
